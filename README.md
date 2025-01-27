@@ -26,8 +26,8 @@
 - PARAM: lgnrnd=132556_dsFF
 - PARAM: lgnjs=4019581468
 
-POSSIBLE USERNAME FIELD FOUND: email=marcosteste@hotmail.com 
-POSSIBLE PASSWORD FIELD FOUND: pass=testeste
+- POSSIBLE USERNAME FIELD FOUND: email=marcosteste@hotmail.com
+- POSSIBLE PASSWORD FIELD FOUND: pass=testeste
 
 - PARAM: prefill_contact_point=
 - PARAM: prefill_source=
