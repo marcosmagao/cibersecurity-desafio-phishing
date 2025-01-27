@@ -18,4 +18,18 @@
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+- POSSIBLE USERNAME FIELD FOUND: skip_api_login~
+- PARAM: signed_next=
+- PARAM: trynum=1
+- PARAM: timezone=180
+- PARAM: lgndim=eyJ3IjogMTkyMCwgImgiOiAxMDgwLCAiYXYiOiAxOTIwfQ
+- PARAM: lgnrnd=132556_dsFF
+- PARAM: lgnjs=4019581468
+
+POSSIBLE USERNAME FIELD FOUND: email=marcosteste@hotmail.com 
+POSSIBLE PASSWORD FIELD FOUND: pass=testeste
+
+- PARAM: prefill_contact_point=
+- PARAM: prefill_source=
+- PARAM: prefill_type=1
+- PARAM: first_prefill_source=
